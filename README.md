@@ -8,8 +8,8 @@
 # 🎲 informação
 para criar usei a biblioteca chamada <a href="https://pyautogui.readthedocs.io/en/latest/">pyautogui</a>, para fazer os clicks optei por direcionar o click na escala x e y da minha tela.
 
-#Bot funcionando👇
-[![Watch the video](https://img.youtube.com/vi/BXtD3gB3l8U/maxresdefault.jpg)](https://youtu.be/BXtD3gB3l8U)
+# Bot funcionando👇
+
 
 # 🎯 Observação
 Ele não loga no vídeo porque eu usei informações fictícias mas ao usar informações reais funciona. Esse bot só funciona na meu pc por conta dos clicks em x e y.
