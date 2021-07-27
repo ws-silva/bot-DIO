@@ -11,6 +11,8 @@ para criar usei a biblioteca chamada <a href="https://pyautogui.readthedocs.io/e
 # Bot funcionando👇
 
 
+![screenshot](https://github.com/ws-silva/bot-DIO/blob/main/img/videobot.gif)
+
 # 🎯 Observação
 Ele não loga no vídeo porque eu usei informações fictícias mas ao usar informações reais funciona. Esse bot só funciona na meu pc por conta dos clicks em x e y.
 esse foi um projeto para estudo e meu primeiro bot, primeiro de muitos. 
